@@ -31,7 +31,7 @@
 
 
 
-        //  Projeto BlackJack  \\
+        //  Projeto BlackJack  Nosso Jogo\\
 
 
 console.log(`"Boas vindas ao jogo de BlackJack!"`)
